@@ -1,0 +1,5 @@
+anthropic==0.67.0
+arxiv==2.2.0
+jupyterlab==4.4.7
+ollama==0.5.3
+python-dotenv==1.1.1
